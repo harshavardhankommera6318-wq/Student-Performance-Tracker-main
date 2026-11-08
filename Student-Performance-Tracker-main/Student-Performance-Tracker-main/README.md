@@ -1,8 +1,8 @@
 # Student Performance Tracker
 
 **Internship project:** Machine Learning  
-**Intern ID:** `CITS9471`  
-**Full name:** `Chilaka Pankaj Dheeraj`  
+**Intern ID:** `CITS7487`  
+**Full name:** `KOMMERA.HARSHA VARDHAN`  
 **Duration (weeks):** `12 weeks`  
 **Project scope:** Clean and analyze student performance data, visualize trends, and estimate final exam scores with a supervised Machine Learning regression model.
 
